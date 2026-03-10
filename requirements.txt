@@ -1,0 +1,10 @@
+# Smart Resume Keyword Matcher — Dependencies
+# Setup: pip install -r requirements.txt
+# Then:  python -m spacy download en_core_web_sm
+
+pdfplumber==0.11.4
+spacy==3.7.4
+scikit-learn==1.4.2
+gradio==4.44.0
+pandas==2.2.2
+numpy==1.26.4
